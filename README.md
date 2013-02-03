@@ -9,6 +9,7 @@ Contains the English Language Arts Common Core Standards.
 Currently the following formats are available:
 
 - xlsx
+- csv
 
 # Mathematics
 
